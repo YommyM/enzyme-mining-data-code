@@ -1,0 +1,13 @@
+embedded_asset,candidate,trace_role,compound,retention_time_min,assignment_basis
+image12.emf,TA2,donor_standard,N-acetylornithine,40.0,peak position in donor standard embedded in the same panel
+image12.emf,TA2,product_standard,L-glutamate,34.3,peak position in product standard embedded in the same panel
+image14.emf,TA10,donor_standard,N-acetylornithine,40.0,peak position in donor standard embedded in the same panel
+image14.emf,TA10,product_standard,L-glutamate,34.3,peak position in product standard embedded in the same panel
+image28.emf,TA5,donor_standard,beta-alanine,42.3,peak position in donor standard embedded in the same panel
+image28.emf,TA5,product_standard,L-alanine,38.0,peak position in product standard embedded in the same panel
+image32.emf,TA5,donor_standard,L-alanine,37.9,peak position in donor standard embedded in the same panel
+image32.emf,TA5,product_standard,glycine,36.7,peak position in product standard embedded in the same panel
+image37.emf,TA1,donor_standard,L-ornithine,42.9,peak position in corresponding reference standard embedded in the same panel
+image37.emf,TA1,product_standard,2-aminobutyrate,53.7,peak position in corresponding reference standard embedded in the same panel
+image41.emf,TA6,donor_standard,4-aminobutanoate,47.1,peak position in donor standard embedded in the same panel
+image41.emf,TA6,product_standard,L-alanine,38.4,peak position in product standard embedded in the same panel

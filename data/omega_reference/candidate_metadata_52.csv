@@ -1,0 +1,53 @@
+accession,sequence_length,database_description,organism,template_used_for_local_extraction
+Q4V8R2,517,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Danio rerio OX=7955 GN=agxt2 PE=1 SV=1",Danio rerio,4aoa
+F7C9Y5,419,Ornithine aminotransferase OS=Equus caballus OX=9796 GN=OAT PE=1 SV=3,Equus caballus,4aoa
+F8W5L3,444,Ornithine aminotransferase OS=Danio rerio OX=7955 GN=oat PE=1 SV=2,Danio rerio,4aoa
+I3IRW7,500,"4-aminobutyrate aminotransferase, mitochondrial OS=Danio rerio OX=7955 GN=abat PE=1 SV=1",Danio rerio,4aoa
+Q5ZJ29,439,Ornithine aminotransferase OS=Gallus gallus OX=9031 GN=OAT PE=1 SV=1,Gallus gallus,4aoa
+A0A3Q2LQ87,439,Ornithine aminotransferase OS=Equus caballus OX=9796 GN=OAT PE=1 SV=2,Equus caballus,4aoa
+A0A804M0R0,434,Ornithine aminotransferase OS=Zea mays OX=4577 GN=100191445 PE=1 SV=1,Zea mays,4aoa
+A0A8V0XAK4,435,Ornithine aminotransferase OS=Gallus gallus OX=9031 GN=OAT PE=1 SV=1,Gallus gallus,4aoa
+A0A8V0XDA3,407,Ornithine aminotransferase OS=Gallus gallus OX=9031 GN=OAT PE=1 SV=1,Gallus gallus,4aoa
+A0A8V0XDA7,398,Ornithine aminotransferase OS=Gallus gallus OX=9031 GN=OAT PE=1 SV=1,Gallus gallus,4aoa
+A0A9L0TE67,438,Ornithine aminotransferase OS=Equus caballus OX=9796 GN=OAT PE=1 SV=1,Equus caballus,4aoa
+B4F8U6,472,Ornithine aminotransferase OS=Zea mays OX=4577 GN=100191445 PE=1 SV=1,Zea mays,4aoa
+B7PUE8,428,(S)-3-amino-2-methylpropionate transaminase OS=Ixodes scapularis OX=6945 GN=8031512 PE=1 SV=1,Ixodes scapularis,4aoa
+F1SDP3,439,Ornithine aminotransferase OS=Sus scrofa OX=9823 GN=OAT PE=1 SV=1,Sus scrofa,4aoa
+A0A1D6LGE4,495,Putative acetylornithine/succinylornithine aminotransferase family protein OS=Zea mays OX=4577 GN=ZEAMMB73_Zm00001d035443 PE=1 SV=1,Zea mays,4aoa
+A0A1D6M6H3,469,Putative aminotransferase class III superfamily protein OS=Zea mays OX=4577 GN=ZEAMMB73_Zm00001d038460 PE=1 SV=1,Zea mays,4aoa
+A0A1R0MXM9,459,Putative 8-amino-7-oxononanoate synthase OS=Chromobacterium violaceum OX=536 GN=CBW21_20070 PE=1 SV=1,Chromobacterium violaceum,4aoa
+A0A2W0F5X5,455,Aspartate aminotransferase family protein OS=Pseudomonas jessenii OX=77298 GN=CRX42_01150 PE=1 SV=1,Pseudomonas jessenii,4aoa
+A0A3L6EED7,477,"Alanine--glyoxylate aminotransferase 2 3, mitochondrial OS=Zea mays OX=4577 GN=At3g08860_3 PE=1 SV=1",Zea mays,4aoa
+A0A804MAH6,509,Uncharacterized protein OS=Zea mays OX=4577 PE=1 SV=1,Zea mays,4aoa
+A0A804NMD2,448,Uncharacterized protein OS=Zea mays OX=4577 PE=1 SV=1,Zea mays,4aoa
+B4G0T5,514,Gamma-aminobutyrate transaminase POP2 mitochondrial OS=Zea mays OX=4577 GN=ZEAMMB73_Zm00001d026293 PE=1 SV=1,Zea mays,4aoa
+B7Q1E3,286,"Ornithine aminotransferase, putative OS=Ixodes scapularis OX=6945 GN=IscW_ISCW020823 PE=1 SV=1",Ixodes scapularis,4aoa
+Q987B2,459,Putative aminotransferase OS=Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099) OX=266835 GN=mll7127 PE=1 SV=1,Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099),4aoa
+Q9RZ32,430,"Aminotransferase, class III OS=Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1) OX=243230 GN=DR_A0121 PE=1 SV=1",Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1),4aoa
+A0A286ZST3,497,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Sus scrofa OX=9823 GN=AGXT2 PE=1 SV=2",Sus scrofa,4aoa
+A0A287B213,496,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Sus scrofa OX=9823 GN=AGXT2 PE=1 SV=2",Sus scrofa,4aoa
+A0A5F5Q1S1,494,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Equus caballus OX=9796 GN=AGXT2 PE=1 SV=2",Equus caballus,4aoa
+A0A8V0YJP6,497,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Gallus gallus OX=9031 GN=AGXT2 PE=1 SV=1",Gallus gallus,4aoa
+A0A8V0YLK8,486,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Gallus gallus OX=9031 GN=AGXT2 PE=1 SV=1",Gallus gallus,4aoa
+A0A8V0YLL2,497,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Gallus gallus OX=9031 GN=AGXT2 PE=1 SV=1",Gallus gallus,4aoa
+A0A9L0RYI8,487,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Equus caballus OX=9796 GN=AGXT2 PE=1 SV=1",Equus caballus,4aoa
+A0A9L0SQ14,462,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Equus caballus OX=9796 GN=AGXT2 PE=1 SV=1",Equus caballus,4aoa
+F1SND2,455,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Sus scrofa OX=9823 GN=AGXT2 PE=1 SV=4",Sus scrofa,4aoa
+F6YAI3,467,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Equus caballus OX=9796 GN=AGXT2 PE=1 SV=4",Equus caballus,4aoa
+H7BWY3,541,"Alanine--glyoxylate aminotransferase 2, mitochondrial OS=Mus musculus OX=10090 GN=Agxt2 PE=1 SV=1",Mus musculus,4aoa
+Q9VW68,486,(S)-3-amino-2-methylpropionate transaminase OS=Drosophila melanogaster OX=7227 GN=Gabat PE=1 SV=1,Drosophila melanogaster,4aoa
+A0A498NBJ5,787,"4-aminobutyrate aminotransferase, mitochondrial OS=Labeo rohita OX=84645 GN=ROHU_005689 PE=1 SV=1",Labeo rohita,4aoa
+A0A9L0R1R4,500,"4-aminobutyrate aminotransferase, mitochondrial OS=Equus caballus OX=9796 GN=ABAT PE=1 SV=1",Equus caballus,4aoa
+E1C8M8,500,"4-aminobutyrate aminotransferase, mitochondrial OS=Gallus gallus OX=9031 GN=ABAT PE=1 SV=3",Gallus gallus,4aoa
+H3BNQ7,515,"4-aminobutyrate aminotransferase, mitochondrial OS=Homo sapiens OX=9606 GN=ABAT PE=1 SV=1",Homo sapiens,4aoa
+A0A804PRM4,453,acetylornithine transaminase OS=Zea mays OX=4577 PE=1 SV=1,Zea mays,4aoa
+A0A804PS61,455,acetylornithine transaminase OS=Zea mays OX=4577 PE=1 SV=1,Zea mays,4aoa
+A0A0P0VX85,484,Os03g0338000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0338000 PE=1 SV=1,Oryza sativa subsp. japonica,4aoa
+A0A0P0WHN0,326,Os05g0129100 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0129100 PE=1 SV=1,Oryza sativa subsp. japonica,4aoa
+A0A804LJZ3,509,Uncharacterized protein OS=Zea mays OX=4577 PE=1 SV=1,Zea mays,4aoa
+A0A804LJZ4,468,Uncharacterized protein OS=Zea mays OX=4577 PE=1 SV=1,Zea mays,4aoa
+A0A804LJZ5,507,Uncharacterized protein OS=Zea mays OX=4577 PE=1 SV=1,Zea mays,4aoa
+A0A8I5ZW33,203,4-aminobutyrate aminotransferase OS=Rattus norvegicus OX=10116 GN=Abat PE=1 SV=1,Rattus norvegicus,4aoa
+A0A8I6G7C5,444,4-aminobutyrate aminotransferase OS=Rattus norvegicus OX=10116 GN=Abat PE=1 SV=1,Rattus norvegicus,4aoa
+Q0D6N1,328,Os07g0461900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0461900 PE=1 SV=1,Oryza sativa subsp. japonica,4aoa
+Q65WV6,491,Os05g0475400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0475400 PE=1 SV=1,Oryza sativa subsp. japonica,4aoa

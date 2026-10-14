@@ -1,0 +1,27 @@
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Generated plots and benchmark checks
+/figures/
+/CHECKSUMS.sha256
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~

@@ -1,0 +1,11 @@
+candidate,uniprot_id,uniprot_auto_annotation,inferred_ec,uniprot_relation,expression,assay_route,activity
+TA1,A0A804M0R0,Ornithine aminotransferase,2.6.1.13,concordant,soluble,purified,++
+TA2,A0A1D6LGE4,Putative acetylornithine/succinylornithine aminotransferase family protein,2.6.1.11,concordant,no_obvious_soluble,whole_cell,-
+TA3,Q9VW68,(S)-3-amino-2-methylpropionate transaminase,2.6.1.22/19,concordant,no_obvious_soluble,whole_cell,+
+TA4,I3IRW7,"4-aminobutyrate aminotransferase, mitochondrial",2.6.1.22/19,concordant,no_obvious_soluble,whole_cell,+
+TA5,A0A9L0SQ14,"Alanine--glyoxylate aminotransferase 2, mitochondrial",2.6.1.18/40/44,concordant,no_obvious_soluble,whole_cell,+
+TA6,Q987B2,Putative aminotransferase,2.6.1.18,annotation_insufficient,soluble,purified,++
+TA7,A0A2W0F5X5,Aspartate aminotransferase family protein,2.6.1.96,discordant,soluble,purified,++
+TA8,A0A804NMD2,Uncharacterized protein,2.6.1.96,annotation_insufficient,soluble,purified,++
+TA9,A0A1R0MXM9,Putative 8-amino-7-oxononanoate synthase,2.6.1.96,discordant,soluble,purified,++
+TA10,Q0D6N1,Os07g0461900 protein,2.6.1.11,annotation_insufficient,no_obvious_soluble,whole_cell,+

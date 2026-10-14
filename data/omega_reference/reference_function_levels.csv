@@ -1,0 +1,59 @@
+structure_id,substrate_class,reaction_class
+2e54,N-acyl diamino-acid aminotransferase,acetylornithine/succinyldiaminopimelate aminotransferase
+4jew,N-acyl diamino-acid aminotransferase,acetylornithine/succinyldiaminopimelate aminotransferase
+6w7x,N-acyl diamino-acid aminotransferase,acetylornithine/succinyldiaminopimelate aminotransferase
+7nn1,N-acyl diamino-acid aminotransferase,acetylornithine/succinyldiaminopimelate aminotransferase
+8ht4,N-acyl diamino-acid aminotransferase,acetylornithine/succinyldiaminopimelate aminotransferase
+1vef,N-acyl diamino-acid aminotransferase,acetylornithine/succinyldiaminopimelate aminotransferase
+3a8u,beta-amino-acid aminotransferase,beta-alanine--pyruvate aminotransferase
+4ah3,S-selective aromatic/aliphatic amine transaminase (Fold I),Chromobacterium broad amine transaminase
+4grx,broad-spectrum amine transaminase (Fold I),Paracoccus aromatic-preferring omega-aminotransferase
+5kr3,broad-spectrum amine transaminase (Fold I),ancestral broad-spectrum transaminase
+5lh9,S-selective aromatic/aliphatic amine transaminase (Fold I),Pseudomonas amine transaminase
+6fyq,S-selective aromatic/aliphatic amine transaminase (Fold I),Virgibacillus hydrophobic-aromatic amine transaminase
+7qx0,beta-amino-acid aminotransferase,engineered beta-amino-acid-producing transaminase
+1ohv,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+1szk,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+2eo5,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+3oks,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+3q8n,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+6j2v,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+6wj8,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+7jh3,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,GABA--2-oxoglutarate aminotransferase
+8cpl,terminal-amino/diamino--2-oxoglutarate aminotransferase,putrescine--2-oxoglutarate aminotransferase
+2cin,terminal-amino/diamino--2-oxoglutarate aminotransferase,lysine 6-aminotransferase
+1m32,noncarboxylate acidic omega-amino aminotransferase,2-aminoethylphosphonate--pyruvate aminotransferase
+6pd1,noncarboxylate acidic omega-amino aminotransferase,2-aminoethylphosphonate--pyruvate aminotransferase
+7e7g,noncarboxylate acidic omega-amino aminotransferase,2-aminoethylphosphonate--pyruvate aminotransferase
+6rl5,terminal-amino/diamino--2-oxoglutarate aminotransferase,diaminobutyrate--2-oxoglutarate aminotransferase
+3du4,biotin-pathway aminotransferase,biotin-pathway aminotransferase
+5k8b,deoxy-sugar aminotransferase,Kdo aminotransferase
+6jix,noncarboxylate acidic omega-amino aminotransferase,taurine--2-oxoglutarate aminotransferase
+5viu,N-acyl diamino-acid aminotransferase,acetylornithine/succinyldiaminopimelate aminotransferase
+1z7d,terminal-amino/diamino--2-oxoglutarate aminotransferase,ornithine--2-oxoglutarate aminotransferase
+1gbn,terminal-amino/diamino--2-oxoglutarate aminotransferase,ornithine--2-oxoglutarate aminotransferase
+3lg0,terminal-amino/diamino--2-oxoglutarate aminotransferase,ornithine--2-oxoglutarate aminotransferase
+4nog,terminal-amino/diamino--2-oxoglutarate aminotransferase,ornithine/GABA--2-oxoglutarate aminotransferase
+5eav,terminal-amino/diamino--2-oxoglutarate aminotransferase,ornithine/GABA--2-oxoglutarate aminotransferase
+5e3k,terminal-amino/diamino--2-oxoglutarate aminotransferase,ornithine/GABA--2-oxoglutarate aminotransferase
+1o61,nucleotide-sugar aminotransferase,PglE nucleotide-sugar aminotransferase
+4ztc,nucleotide-sugar aminotransferase,PglE nucleotide-sugar aminotransferase
+4ce5,R-selective amine transaminase,R-selective amine transaminase (Fold IV)
+4chi,R-selective amine transaminase,R-selective amine transaminase (Fold IV)
+3wwh,R-selective amine transaminase,R-selective amine transaminase (Fold IV)
+3wwj,R-selective amine transaminase,R-selective amine transaminase (Fold IV)
+5fr9,R-selective amine transaminase,R-selective amine transaminase (Fold IV)
+6io1,S-selective aromatic/aliphatic amine transaminase (Fold I),Thermomicrobium S-selective omega-transaminase
+5g09,S-selective aromatic/aliphatic amine transaminase (Fold I),Bacillus S-selective amine transaminase
+4aoa,beta-amino-acid aminotransferase,beta-phenylalanine aminotransferase
+2yku,beta-amino-acid aminotransferase,beta-phenylalanine aminotransferase
+3fcr,broad-spectrum amine transaminase (Fold I),S-selective broad-substrate amine transaminase
+Q88RB9,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,5-aminovalerate--2-oxoglutarate aminotransferase
+Q9APM5,noncarboxylate acidic omega-amino aminotransferase,taurine--pyruvate aminotransferase
+Q94CE5,GABA--pyruvate aminotransferase,GABA--pyruvate aminotransferase
+Q7XN11,GABA--pyruvate aminotransferase,GABA--pyruvate aminotransferase
+Q84P53,GABA--pyruvate aminotransferase,GABA--pyruvate aminotransferase
+Q84P52,GABA--pyruvate aminotransferase,GABA--pyruvate aminotransferase
+B0VH76,CoA-linked beta-amino aminotransferase,3-aminobutanoyl-CoA aminotransferase
+Q9I6J2,diamine--pyruvate aminotransferase,putrescine--pyruvate aminotransferase
+Q4JAP8,carrier-bound substrate aminotransferase,LysW-bound aminoadipate/glutamate-semialdehyde aminotransferase

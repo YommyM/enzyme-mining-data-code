@@ -1,0 +1,85 @@
+representation,structure_id,family,recovery_1,recovery_2,recovery_3,recovery_4,recovery_5,average_precision
+global,2e54,N-acyl diamino-acid aminotransferase,1.0,0.5,0.3333333333333333,0.25,0.2,0.27957625310566486
+global,4jew,N-acyl diamino-acid aminotransferase,0.0,0.0,0.3333333333333333,0.25,0.4,0.27301302634875085
+global,6w7x,N-acyl diamino-acid aminotransferase,1.0,0.5,0.6666666666666666,0.5,0.4,0.45897009966777397
+global,7nn1,N-acyl diamino-acid aminotransferase,1.0,0.5,0.3333333333333333,0.25,0.2,0.3915492522555926
+global,8ht4,N-acyl diamino-acid aminotransferase,0.0,0.5,0.3333333333333333,0.25,0.4,0.3173992673992674
+global,1vef,N-acyl diamino-acid aminotransferase,1.0,0.5,0.3333333333333333,0.25,0.2,0.27376132639290535
+global,3a8u,beta-amino-acid aminotransferase,0.0,0.0,0.0,0.0,0.0,0.068218954248366
+global,4ah3,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,0.5,0.6666666666666666,0.5,0.6,0.6996598639455781
+global,4grx,broad-spectrum amine transaminase (Fold I),1.0,0.5,0.6666666666666666,0.5,0.6,0.6996598639455781
+global,5kr3,broad-spectrum amine transaminase (Fold I),1.0,1.0,1.0,1.0,0.8,0.8857142857142856
+global,5lh9,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,1.0,1.0,0.75,0.8,0.848051948051948
+global,6fyq,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,0.5,0.6666666666666666,0.75,0.8,0.6899600399600399
+global,7qx0,beta-amino-acid aminotransferase,0.0,0.0,0.0,0.0,0.0,0.07794057794057793
+global,1ohv,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,0.0,0.0,0.0,0.0,0.0,0.25100498629910395
+global,1szk,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,0.8,0.6507429160877437
+global,2eo5,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,0.75,0.6,0.5412922879589546
+global,3oks,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,0.8,0.6237104280582542
+global,3q8n,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,0.8,0.6506783340116674
+global,6j2v,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,0.6666666666666666,0.75,0.8,0.7447919908704222
+global,6wj8,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,0.6666666666666666,0.75,0.6,0.6714761121737867
+global,7jh3,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,0.6666666666666666,0.5,0.6,0.5768770465220894
+global,2cin,terminal-amino/diamino--2-oxoglutarate aminotransferase,0.0,0.0,0.0,0.0,0.0,0.13137536345463632
+global,1m32,noncarboxylate acidic omega-amino aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.383364602876798
+global,7e7g,noncarboxylate acidic omega-amino aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3798076923076923
+global,6rl5,terminal-amino/diamino--2-oxoglutarate aminotransferase,0.0,0.0,0.0,0.0,0.0,0.1673870573870574
+global,6jix,noncarboxylate acidic omega-amino aminotransferase,0.0,0.0,0.0,0.0,0.0,0.04923632459864344
+global,5viu,N-acyl diamino-acid aminotransferase,1.0,1.0,1.0,1.0,1.0,0.6953703703703704
+global,1z7d,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,1.0,0.6666666666666666,0.5,0.6,0.5182958618442489
+global,1gbn,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,0.5,0.3333333333333333,0.5,0.4,0.39910394265232974
+global,3lg0,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,1.0,0.6666666666666666,0.75,0.8,0.6649899899899899
+global,5eav,terminal-amino/diamino--2-oxoglutarate aminotransferase,0.0,0.5,0.6666666666666666,0.75,0.8,0.622594001478913
+global,6io1,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,1.0,0.6666666666666666,0.75,0.8,0.8047619047619047
+global,5g09,S-selective aromatic/aliphatic amine transaminase (Fold I),0.0,0.5,0.3333333333333333,0.5,0.6,0.5189952904238618
+global,4aoa,beta-amino-acid aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.4588235294117647
+global,2yku,beta-amino-acid aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.4754901960784314
+global,3fcr,broad-spectrum amine transaminase (Fold I),0.0,0.0,0.3333333333333333,0.5,0.6,0.5441308691308692
+global,Q88RB9,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,0.6666666666666666,0.5,0.4,0.5369001942645354
+global,Q9APM5,noncarboxylate acidic omega-amino aminotransferase,0.0,0.0,0.0,0.0,0.0,0.06515151515151514
+global,Q94CE5,GABA--pyruvate aminotransferase,1.0,0.5,0.3333333333333333,0.6666666666666666,1.0,0.7000000000000001
+global,Q7XN11,GABA--pyruvate aminotransferase,1.0,1.0,1.0,1.0,1.0,1.0
+global,Q84P53,GABA--pyruvate aminotransferase,1.0,0.5,0.3333333333333333,0.6666666666666666,1.0,0.7000000000000001
+global,Q84P52,GABA--pyruvate aminotransferase,1.0,1.0,1.0,1.0,1.0,1.0
+local_window_3,2e54,N-acyl diamino-acid aminotransferase,1.0,1.0,0.6666666666666666,0.75,0.6,0.6140677797654541
+local_window_3,4jew,N-acyl diamino-acid aminotransferase,1.0,1.0,1.0,1.0,0.8,0.7112900019876763
+local_window_3,6w7x,N-acyl diamino-acid aminotransferase,0.0,0.5,0.3333333333333333,0.25,0.2,0.21204500983912747
+local_window_3,7nn1,N-acyl diamino-acid aminotransferase,1.0,0.5,0.6666666666666666,0.75,0.8,0.5813346883468835
+local_window_3,8ht4,N-acyl diamino-acid aminotransferase,1.0,0.5,0.6666666666666666,0.75,0.8,0.5813346883468835
+local_window_3,1vef,N-acyl diamino-acid aminotransferase,1.0,1.0,1.0,0.75,0.6,0.6546921283166319
+local_window_3,3a8u,beta-amino-acid aminotransferase,0.0,0.0,0.0,0.0,0.0,0.06061253561253561
+local_window_3,4ah3,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,1.0,1.0,1.0,0.8,0.8601190476190477
+local_window_3,4grx,broad-spectrum amine transaminase (Fold I),0.0,0.5,0.6666666666666666,0.75,0.8,0.6255952380952381
+local_window_3,5kr3,broad-spectrum amine transaminase (Fold I),1.0,1.0,1.0,1.0,1.0,0.8624999999999999
+local_window_3,5lh9,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,1.0,0.6666666666666666,0.5,0.4,0.617375283446712
+local_window_3,6fyq,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,1.0,1.0,1.0,0.8,0.8216836734693878
+local_window_3,7qx0,beta-amino-acid aminotransferase,0.0,0.0,0.0,0.0,0.0,0.08173635307781649
+local_window_3,1ohv,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,0.0,0.5,0.3333333333333333,0.25,0.4,0.4264652014652015
+local_window_3,1szk,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,1.0,0.9320987654320988
+local_window_3,2eo5,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,0.0,0.0,0.0,0.25,0.2,0.34768765996836165
+local_window_3,3oks,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,1.0,0.8966810966810966
+local_window_3,3q8n,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,1.0,0.9085858585858586
+local_window_3,6j2v,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,1.0,0.8439814814814814
+local_window_3,6wj8,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,1.0,0.8495642701525055
+local_window_3,7jh3,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,1.0,0.8495642701525055
+local_window_3,2cin,terminal-amino/diamino--2-oxoglutarate aminotransferase,0.0,0.0,0.0,0.25,0.2,0.1468396369712159
+local_window_3,1m32,noncarboxylate acidic omega-amino aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.43358395989974935
+local_window_3,7e7g,noncarboxylate acidic omega-amino aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.4365079365079365
+local_window_3,6rl5,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,0.5,0.3333333333333333,0.25,0.2,0.3043168692482194
+local_window_3,6jix,noncarboxylate acidic omega-amino aminotransferase,0.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.20404040404040402
+local_window_3,5viu,N-acyl diamino-acid aminotransferase,1.0,1.0,0.6666666666666666,0.75,0.6,0.5315589384668332
+local_window_3,1z7d,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,1.0,0.6666666666666666,0.75,0.8,0.8016233766233766
+local_window_3,1gbn,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,0.5,0.3333333333333333,0.25,0.2,0.27324289321318185
+local_window_3,3lg0,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,1.0,1.0,0.75,0.6,0.747918747918748
+local_window_3,5eav,terminal-amino/diamino--2-oxoglutarate aminotransferase,1.0,0.5,0.3333333333333333,0.25,0.4,0.5294462264462265
+local_window_3,6io1,S-selective aromatic/aliphatic amine transaminase (Fold I),1.0,1.0,1.0,1.0,0.8,0.7803571428571429
+local_window_3,5g09,S-selective aromatic/aliphatic amine transaminase (Fold I),0.0,0.0,0.0,0.0,0.0,0.37763783835212406
+local_window_3,4aoa,beta-amino-acid aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.4658119658119659
+local_window_3,2yku,beta-amino-acid aminotransferase,1.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.4658119658119659
+local_window_3,3fcr,broad-spectrum amine transaminase (Fold I),1.0,1.0,1.0,1.0,0.8,0.8601190476190477
+local_window_3,Q88RB9,GABA/5-aminovalerate--2-oxoglutarate aminotransferase,1.0,1.0,1.0,1.0,1.0,0.8439814814814814
+local_window_3,Q9APM5,noncarboxylate acidic omega-amino aminotransferase,0.0,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.20404040404040402
+local_window_3,Q94CE5,GABA--pyruvate aminotransferase,1.0,1.0,1.0,1.0,1.0,1.0
+local_window_3,Q7XN11,GABA--pyruvate aminotransferase,1.0,1.0,1.0,1.0,1.0,1.0
+local_window_3,Q84P53,GABA--pyruvate aminotransferase,1.0,1.0,1.0,1.0,1.0,1.0
+local_window_3,Q84P52,GABA--pyruvate aminotransferase,1.0,1.0,1.0,1.0,1.0,1.0

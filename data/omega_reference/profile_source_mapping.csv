@@ -1,0 +1,7 @@
+profile,reference_members,profile_hits,original_profile,original_hmm_name
+HMM1,23,161,class1,class1_aligned
+HMM2,18,161,class2,class2_aligned
+HMM3,6,165,class3,class3_aligned
+HMM4,5,68,class4,class4_aligned
+HMM5,3,25,class5,class5_aligned
+HMM6,3,32,class7,class7_aligned

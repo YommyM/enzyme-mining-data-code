@@ -1,0 +1,5 @@
+check,value
+fragment_byte_mismatches,0
+pair_count,1653
+max_abs_tm_score_difference,0.0
+tm_score_differences_gt_1e-5,0
