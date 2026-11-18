@@ -1,0 +1,12 @@
+{
+  "aliphatic": "AVILM",
+  "aromatic": "FWY",
+  "hydroxyl": "ST",
+  "amide": "NQ",
+  "acidic": "DE",
+  "basic": "KR",
+  "imidazole": "H",
+  "thiol": "C",
+  "glycine": "G",
+  "proline": "P"
+}

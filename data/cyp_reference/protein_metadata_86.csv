@@ -1,0 +1,87 @@
+﻿accession,organism,taxonomic_group,sequence_cluster,reaction_labels,single_label_query,query_class,domain_start,domain_end,global_residues,domain_scope
+A0A077KEB8,Streptomyces blastmyceticus,Bacteria,0,coupling_cyclization,True,coupling_cyclization,2,398,397,template_inferred_P450_span
+A0A0B0D9P4,Kocuria marina,Bacteria,1,oxidative_decarboxylation,True,oxidative_decarboxylation,4,427,424,template_inferred_P450_span
+A0A0N9HKQ7,Aspergillus desertorum,Fungi,4,coupling_cyclization,True,coupling_cyclization,43,535,493,template_inferred_P450_span
+A0A1M4Y7D5,Streptoalloteichus hindustanus,Bacteria,6,coupling_cyclization,True,coupling_cyclization,4,398,395,template_inferred_P450_span
+A0A224AU14,Streptomyces atratus,Bacteria,8,nitration,True,nitration,8,394,387,template_inferred_P450_span
+A0A2R4SBW0,Ganoderma lucidum,Fungi,10,overall:methyl_to_carboxylate,True,overall:methyl_to_carboxylate,29,547,519,template_inferred_P450_span
+A0A8I3B043,Streptomyces sp. NRRL F-5053,Bacteria,14,coupling_cyclization,True,coupling_cyclization,4,401,398,template_inferred_P450_span
+A0R4Q6,Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155),Bacteria,16,hydroxylation,True,hydroxylation,7,400,394,template_inferred_P450_span
+A0R4Y3,Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155),Bacteria,17,hydroxylation,True,hydroxylation,2,415,414,template_inferred_P450_span
+A1CFL6,Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107),Fungi,18,hydroxylation,True,hydroxylation,45,504,460,template_inferred_P450_span
+A2QK67,Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513),Fungi,19,coupling_cyclization,True,coupling_cyclization,10,417,408,template_inferred_P450_span
+B8QHP1,Starmerella bombicola,Fungi,22,hydroxylation,True,hydroxylation,37,538,502,template_inferred_P450_span
+B8QHP3,Starmerella bombicola,Fungi,23,hydroxylation,True,hydroxylation,29,519,491,template_inferred_P450_span
+B8QHP5,Starmerella bombicola,Fungi,24,hydroxylation,True,hydroxylation,16,523,508,template_inferred_P450_span
+C0XPZ5,Corynebacterium lipophiloflavum (strain ATCC 700352 / DSM 44291 / CCUG 37336 / JCM 10383 / DMMZ 1944),Bacteria,25,oxidative_decarboxylation,True,oxidative_decarboxylation,8,429,422,template_inferred_P450_span
+C9K1X6,Streptomyces melanosporofaciens,Bacteria,26,hydroxylation,True,hydroxylation,19,459,441,template_inferred_P450_span
+C9K1X7,Streptomyces melanosporofaciens,Bacteria,27,hydroxylation,True,hydroxylation,20,459,440,template_inferred_P450_span
+C9ZDC6,Streptomyces scabiei (strain 87.22),Bacteria,28,nitration,True,nitration,1,406,406,template_inferred_P450_span
+D5DKI8,Priestia megaterium (strain DSM 319 / IMG 1521),Bacteria,29,hydroxylation,True,hydroxylation,16,404,389,template_inferred_P450_span
+E3VWI3,Streptomyces arenae,Bacteria,30,rearrangement,True,rearrangement,2,398,397,template_inferred_P450_span
+E3VWJ9,Streptomyces exfoliatus,Bacteria,30,rearrangement,True,rearrangement,2,398,397,template_inferred_P450_span
+E9NSU2,Jeotgalicoccus sp. ATCC 8456,Bacteria,32,oxidative_decarboxylation,True,oxidative_decarboxylation,4,422,419,template_inferred_P450_span
+G5EJN7,Phanerodontia chrysosporium,Fungi,33,hydroxylation,True,hydroxylation,1,458,458,template_inferred_P450_span
+H2KYS3,Caenorhabditis elegans,Metazoa,35,overall:methyl_to_carboxylate,True,overall:methyl_to_carboxylate,100,563,464,template_inferred_P450_span
+I1TEM0,Catharanthus roseus,Viridiplantae,36,coupling_cyclization;overall:alkaloid_oxidative_cyclization_and_carbon_loss,False,,31,501,471,template_inferred_P450_span
+I3DZK9,Bacillus methanolicus (strain MGA3 / ATCC 53907),Bacteria,37,hydroxylation,True,hydroxylation,2,419,418,template_inferred_P450_span
+K7NBR2,Siraitia grosvenorii,Viridiplantae,38,further_oxidation;hydroxylation;overall:C_H_to_carbonyl,False,,30,473,444,template_inferred_P450_span
+O31440,Bacillus subtilis (strain 168),Bacteria,39,hydroxylation,True,hydroxylation,6,416,411,template_inferred_P450_span
+O87605,Streptomyces venezuelae,Bacteria,41,hydroxylation,True,hydroxylation,14,405,392,template_inferred_P450_span
+P00183,Pseudomonas putida,Bacteria,42,hydroxylation,True,hydroxylation,11,415,405,template_inferred_P450_span
+P04798,Homo sapiens,Metazoa,43,epoxidation;further_oxidation;hydroperoxide_conversion;hydroxylation,False,,37,512,476,template_inferred_P450_span
+P05093,Homo sapiens,Metazoa,45,hydroxylation;oxidative_cc_cleavage,False,,31,493,463,template_inferred_P450_span
+P05108,Homo sapiens,Metazoa,46,hydroxylation;overall:cholesterol_side_chain_removal;oxidative_cc_cleavage,False,,46,516,471,template_inferred_P450_span
+P05177,Homo sapiens,Metazoa,43,epoxidation;further_oxidation;hydroperoxide_conversion;hydroxylation,False,,39,514,476,template_inferred_P450_span
+P05181,Homo sapiens,Metazoa,48,hydroxylation,True,hydroxylation,30,493,464,template_inferred_P450_span
+P08684,Homo sapiens,Metazoa,3,epoxidation;further_oxidation;hydroxylation,False,,26,496,471,template_inferred_P450_span
+P10614,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Fungi,52,oxidative_dealkylation,True,oxidative_dealkylation,32,525,494,template_inferred_P450_span
+P10632,Homo sapiens,Metazoa,53,epoxidation;hydroxylation,False,,43,488,446,template_inferred_P450_span
+P10635,Homo sapiens,Metazoa,54,epoxidation;further_oxidation;hydroxylation,False,,31,497,467,template_inferred_P450_span
+P11511,Homo sapiens,Metazoa,55,further_oxidation;hydroxylation;overall:steroid_aromatization;oxidative_cc_cleavage,False,,64,494,431,template_inferred_P450_span
+P11712,Homo sapiens,Metazoa,53,epoxidation;hydroxylation,False,,43,488,446,template_inferred_P450_span
+P14779,Priestia megaterium (strain ATCC 14581 / DSM 32 / CCUG 1817 / JCM 2506 / NBRC 15308 / NCIMB 9376 / NCTC 10342 / NRRL B-14308 / VKM B-512 / Ford 19),Bacteria,57,hydroxylation,True,hydroxylation,20,451,432,template_inferred_P450_span
+P17549,Aspergillus niger,Fungi,58,hydroxylation;oxidative_dealkylation,False,,30,514,485,template_inferred_P450_span
+P20813,Homo sapiens,Metazoa,59,epoxidation;hydroxylation,False,,34,489,456,template_inferred_P450_span
+P20815,Homo sapiens,Metazoa,3,further_oxidation;hydroxylation,False,,51,494,444,template_inferred_P450_span
+P24462,Homo sapiens,Metazoa,3,hydroxylation,True,hydroxylation,26,496,471,template_inferred_P450_span
+P33260,Homo sapiens,Metazoa,53,hydroxylation,True,hydroxylation,27,490,464,template_inferred_P450_span
+P33261,Homo sapiens,Metazoa,53,epoxidation;hydroxylation,False,,27,490,464,template_inferred_P450_span
+P78329,Homo sapiens,Metazoa,67,further_oxidation;hydroxylation,False,,46,520,475,template_inferred_P450_span
+P9WPL5,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Bacteria,16,hydroxylation,True,hydroxylation,4,398,395,template_inferred_P450_span
+P9WPP1,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Bacteria,17,hydroxylation;overall:cholesterol_side_chain_sequential_oxidation,False,,18,430,413,template_inferred_P450_span
+P9WPP7,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Bacteria,72,coupling_cyclization,True,coupling_cyclization,2,396,395,template_inferred_P450_span
+P9WPP9,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Bacteria,73,oxidative_dealkylation,True,oxidative_dealkylation,2,449,448,template_inferred_P450_span
+Q00441,Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338),Bacteria,74,hydroxylation,True,hydroxylation,3,404,402,template_inferred_P450_span
+Q02928,Homo sapiens,Metazoa,75,further_oxidation;hydroxylation,False,,47,512,466,template_inferred_P450_span
+Q07973,Homo sapiens,Metazoa,77,further_oxidation;hydroxylation,False,,54,514,461,template_inferred_P450_span
+Q09128,Rattus norvegicus,Metazoa,77,further_oxidation;hydroxylation,False,,54,514,461,template_inferred_P450_span
+Q0D1W9,Aspergillus terreus (strain NIH 2624 / FGSC A1156),Fungi,79,hydroxylation,True,hydroxylation,22,455,434,template_inferred_P450_span
+Q0SCI3,Rhodococcus jostii (strain RHA1),Bacteria,81,oxidative_dealkylation,True,oxidative_dealkylation,6,400,395,template_inferred_P450_span
+Q16678,Homo sapiens,Metazoa,21,epoxidation;further_oxidation;hydroperoxide_conversion;hydroxylation,False,,43,524,482,template_inferred_P450_span
+Q1PS23,Artemisia annua,Viridiplantae,84,overall:methyl_to_carboxylate,True,overall:methyl_to_carboxylate,36,495,460,template_inferred_P450_span
+Q2G8A2,Novosphingobium aromaticivorans (strain ATCC 700278 / DSM 12444 / CCUG 56034 / CIP 105152 / NBRC 16084 / F199),Bacteria,87,hydroxylation,True,hydroxylation,11,414,404,template_inferred_P450_span
+Q2GB12,Novosphingobium aromaticivorans (strain ATCC 700278 / DSM 12444 / CCUG 56034 / CIP 105152 / NBRC 16084 / F199),Bacteria,88,hydroxylation,True,hydroxylation,10,417,408,template_inferred_P450_span
+Q2IU02,Rhodopseudomonas palustris (strain HaA2),Bacteria,89,oxidative_dealkylation,True,oxidative_dealkylation,18,410,393,template_inferred_P450_span
+Q33DY0,Sesamum indicum,Viridiplantae,91,coupling_cyclization,True,coupling_cyclization,33,497,465,template_inferred_P450_span
+Q43135,Sorghum bicolor,Viridiplantae,92,N_oxygenation;decarboxylation_dehydration;overall:amino_acid_to_aldoxime,False,,66,549,484,template_inferred_P450_span
+Q4WNT5,Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293),Fungi,93,oxidative_dealkylation,True,oxidative_dealkylation,13,510,498,template_inferred_P450_span
+Q56VS2,Phanerodontia chrysosporium,Fungi,94,hydroxylation,True,hydroxylation,63,597,535,template_inferred_P450_span
+Q59523,Micromonospora griseorubida,Bacteria,95,epoxidation;hydroxylation;overall:hydroxylation_then_epoxidation,False,,1,397,397,template_inferred_P450_span
+Q5YNS8,Nocardia farcinica (strain IFM 10152),Bacteria,96,hydroxylation,True,hydroxylation,6,410,405,template_inferred_P450_span
+Q65A64,Mycobacterium sp. HXN-1500,Bacteria,100,hydroxylation,True,hydroxylation,16,420,405,template_inferred_P450_span
+Q6N8N2,Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),Bacteria,89,oxidative_dealkylation,True,oxidative_dealkylation,19,412,394,template_inferred_P450_span
+Q6NT55,Homo sapiens,Metazoa,102,hydroxylation,True,hydroxylation,55,530,476,template_inferred_P450_span
+Q6VVX0,Homo sapiens,Metazoa,13,hydroxylation,True,hydroxylation,57,500,444,template_inferred_P450_span
+Q70KH6,Streptomyces thioluteus,Bacteria,104,overall:hydroxylation_then_ether_ring_formation,False,,1,406,406,template_inferred_P450_span
+Q7Z449,Homo sapiens,Metazoa,105,hydroxylation;other_oxygenation,False,,57,544,488,template_inferred_P450_span
+Q825I8,Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680),Bacteria,106,hydroxylation,True,hydroxylation,10,402,393,template_inferred_P450_span
+Q8VQF6,Citrobacter braakii,Bacteria,108,hydroxylation,True,hydroxylation,7,403,397,template_inferred_P450_span
+Q91WL5,Mus musculus,Metazoa,75,epoxidation;further_oxidation;hydroxylation,False,,46,508,463,template_inferred_P450_span
+Q9FCA6,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),Bacteria,111,coupling_cyclization,True,coupling_cyclization,10,404,395,template_inferred_P450_span
+Q9HBI6,Homo sapiens,Metazoa,67,hydroxylation,True,hydroxylation,47,522,476,template_inferred_P450_span
+Q9K498,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),Bacteria,113,further_oxidation;hydroxylation;overall:C_H_to_carbonyl,False,,21,461,441,template_inferred_P450_span
+Q9KIZ4,Sorangium cellulosum,Bacteria,114,epoxidation,False,,16,416,401,template_inferred_P450_span
+Q9KZF5,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),Bacteria,115,coupling_cyclization,True,coupling_cyclization,13,407,395,template_inferred_P450_span
+Q9Y8G7,Fusarium oxysporum,Fungi,118,hydroxylation,True,hydroxylation,9,457,449,template_inferred_P450_span
+Q9ZHQ1,Streptomyces fradiae,Bacteria,119,hydroxylation,True,hydroxylation,32,420,389,template_inferred_P450_span

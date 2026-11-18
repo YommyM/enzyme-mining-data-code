@@ -1,0 +1,24 @@
+[
+  {
+    "pdb": "8VWK",
+    "residue": 89,
+    "water": 614,
+    "ligand_O": "O1",
+    "NE2_water_O_angle_deg": 122.2268295288086,
+    "water_B": 52.11552,
+    "NE2_B": 51.36746,
+    "ligand_O_B": 53.79999,
+    "water_occ": 1.0
+  },
+  {
+    "pdb": "1IZO",
+    "residue": 85,
+    "water": 663,
+    "ligand_O": "O2",
+    "NE2_water_O_angle_deg": 125.7962875366211,
+    "water_B": 38.21,
+    "NE2_B": 34.59,
+    "ligand_O_B": 39.44,
+    "water_occ": 1.0
+  }
+]

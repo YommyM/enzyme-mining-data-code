@@ -1,0 +1,71 @@
+[
+  {
+    "mode": "seven_singlelabel",
+    "condition": "all_references",
+    "matched_queries": 56,
+    "matched_query_class_pairs": 56,
+    "matched_classes": 6,
+    "global_AUC": 0.696965633807436,
+    "local_AUC": 0.7541939801709429,
+    "global_ci95": [
+      0.6589986191753039,
+      0.7347832793667105
+    ],
+    "local_ci95": [
+      0.718247210113917,
+      0.7823110663378556
+    ],
+    "delta_ci95": [
+      0.028213420954745806,
+      0.08624587577583588
+    ],
+    "valid_bootstraps": 5000,
+    "attempts": 6284
+  },
+  {
+    "mode": "seven_singlelabel",
+    "condition": "exclude_cluster",
+    "matched_queries": 56,
+    "matched_query_class_pairs": 56,
+    "matched_classes": 6,
+    "global_AUC": 0.6928291092191863,
+    "local_AUC": 0.7502256250118924,
+    "global_ci95": [
+      0.6553462637460757,
+      0.7313784775560652
+    ],
+    "local_ci95": [
+      0.7146460270084092,
+      0.7783583666878076
+    ],
+    "delta_ci95": [
+      0.028464257414233838,
+      0.08641977689420217
+    ],
+    "valid_bootstraps": 5000,
+    "attempts": 6284
+  },
+  {
+    "mode": "seven_singlelabel",
+    "condition": "exclude_cluster_features",
+    "matched_queries": 56,
+    "matched_query_class_pairs": 56,
+    "matched_classes": 6,
+    "global_AUC": 0.6890671049679429,
+    "local_AUC": 0.7524285255417399,
+    "global_ci95": [
+      0.6517697103222558,
+      0.7264556540467629
+    ],
+    "local_ci95": [
+      0.7162655187808724,
+      0.7806991935547796
+    ],
+    "delta_ci95": [
+      0.03453470821975473,
+      0.09156988904939059
+    ],
+    "valid_bootstraps": 5000,
+    "attempts": 6284
+  }
+]

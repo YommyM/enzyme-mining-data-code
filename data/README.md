@@ -46,6 +46,28 @@ Directory: `omega_pocket_range_current/`
 - `fragment_sizes.csv`: residue counts for each protein and window.
 - `window_3_reproduction_validation.csv`: consistency checks for the ±3 fragments.
 
+## CYP references and experimental case
+
+Directory: [`cyp_reference/`](cyp_reference/README.md). These are the inputs and final results for Figure 5.
+
+| File or directory | Contents |
+|---|---|
+| `protein_metadata_86.csv` | All 86 reference proteins, organisms, domain boundaries, reaction memberships, sequence clusters and query roles |
+| `reaction_annotations.csv` | 402 evidence-linked reaction records, covering 281 enzyme–substrate associations and 127 standardized substrates |
+| `single_label_queries_58.csv` | The seven-class, 58-query evaluation set for A/B |
+| `aligned_domains_86.fasta` | Domain alignment for reconstructing the 73 reference sequence clusters |
+| `global_tm_86.csv`, `local_tm_86.csv` | Global-domain and ±3 pocket TM-score matrices; the same 86 identifiers and order |
+| `template_residues.csv`, `template_alignments/` | P450cam 2ZWU contact anchors and target mappings |
+| `anchor_mapping_86.csv`, `local_region_inventory_86.csv` | Selected ±3 positions, gap handling and region sizes |
+| `results/` | A clustering scores, B class-level AUCs, B/C query-level AUCs, C bootstrap intervals and corrected significance tests |
+| `case/metadata.json` | Experimental protein, ligand/heme and selected-residue identities |
+| `case/experimental_residue_number_mapping.csv`, `case/alignment/` | UniProt/author numbering correspondence and experimental TM-align records |
+| `case/results/`, `case/TM_scores.json` | Panel E sequence/structure data and D/F geometric analyses |
+
+All 86 proteins contribute reference dimensions and retrieval candidates. A/B evaluate 58 single-label queries in seven classes; C uses the same 56 eligible queries in six classes across all three conditions. Multi-label proteins remain in the reference pool. The 14 coarse annotation classes and seven evaluation classes are connected by explicit net-reaction refinement and the single-label/minimum-two-member selection, as detailed in the [dataset README](cyp_reference/README.md).
+
+The case consists of OleT_KM (A0A0B0D9P4, 8VWK chain A) and P450BSβ (O31440, 1IZO chain A). Each has 65 selected local residues. Their experimental global/local TM-scores are 0.913725/0.87375. Protein annotations describe their myristate activities; the crystal ligands are MYR (myristic acid) and PAM (palmitoleic acid). Original and aligned coordinates are in `../structures/cyp/`.
+
 ## Experimental data
 
 Directory: `experimental_validation/`

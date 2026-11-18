@@ -1,0 +1,27 @@
+{
+  "reference_proteins": 86,
+  "reference_sequence_clusters": 73,
+  "A_B_queries": 58,
+  "A_B_classes": 7,
+  "C_queries": 56,
+  "C_classes": 6,
+  "C_query_sequence_clusters": 54,
+  "reaction_annotation_records": 402,
+  "local_fragments_reextracted_and_coordinate_checked": 86,
+  "A_ARI_values_reproduced": 18,
+  "all_query_AUCs_verified": true,
+  "C_bootstrap_intervals_reproduced": true,
+  "C_p_values_reproduced": true,
+  "experimental_global_TM": 0.913725,
+  "experimental_local_TM": 0.87375,
+  "experimental_TM_difference_from_source": 0,
+  "reference_TM_smoke_test_proteins": [
+    "A0A0B0D9P4",
+    "O31440"
+  ],
+  "reference_full_pairwise_TM_recomputed": false,
+  "E_alignment_columns": 66,
+  "E_selected_residues_per_protein": 65,
+  "E_sequence_and_distances_reproduced": true,
+  "case_geometry_reproduced": true
+}

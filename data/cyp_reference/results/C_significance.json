@@ -1,0 +1,51 @@
+{
+  "test": "Two-sided paired sequence-cluster sign-flip test of class-balanced macro AUC difference; candidate reference set and query scores fixed",
+  "null": "Global/local labels exchangeable jointly within each query sequence cluster",
+  "draws": 200000,
+  "seed": 2026111802,
+  "multiple_testing": "Holm across three conditions",
+  "results": [
+    {
+      "condition": "all_references",
+      "queries": 56,
+      "classes": 6,
+      "sequence_clusters": 54,
+      "global_macro_AUC": 0.6969656338074359,
+      "local_macro_AUC": 0.7541939801709426,
+      "delta": 0.05722834636350662,
+      "p_two_sided": 0.00136999315003425,
+      "p_Holm": 0.0026299868500657495,
+      "significant_Holm_0p05": true,
+      "extreme_draws": 273,
+      "monte_carlo_se": 8.270760026309455e-05
+    },
+    {
+      "condition": "exclude_cluster",
+      "queries": 56,
+      "classes": 6,
+      "sequence_clusters": 54,
+      "global_macro_AUC": 0.6928291092191861,
+      "local_macro_AUC": 0.7502256250118924,
+      "delta": 0.05739651579270626,
+      "p_two_sided": 0.0013149934250328748,
+      "p_Holm": 0.0026299868500657495,
+      "significant_Holm_0p05": true,
+      "extreme_draws": 262,
+      "monte_carlo_se": 8.103263697537986e-05
+    },
+    {
+      "condition": "exclude_cluster_features",
+      "queries": 56,
+      "classes": 6,
+      "sequence_clusters": 54,
+      "global_macro_AUC": 0.689067104967943,
+      "local_macro_AUC": 0.7524285255417399,
+      "delta": 0.0633614205737969,
+      "p_two_sided": 0.000524997375013125,
+      "p_Holm": 0.001574992125039375,
+      "significant_Holm_0p05": true,
+      "extreme_draws": 104,
+      "monte_carlo_se": 5.12210469032852e-05
+    }
+  ]
+}

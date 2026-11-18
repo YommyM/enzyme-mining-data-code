@@ -1,0 +1,16 @@
+{
+  "correspondence": "experimental_global_TM_align",
+  "columns": 66,
+  "selected_residues_per_protein": {
+    "OleT_KM": 65,
+    "P450BSbeta": 65
+  },
+  "counts": {
+    "same": 29,
+    "substitution": 35,
+    "unpaired_in_pm3": 2
+  },
+  "local_TM_score_unchanged": 0.8738,
+  "global_TM_score_unchanged": 0.9137,
+  "paired_sequence_identity": 0.453125
+}

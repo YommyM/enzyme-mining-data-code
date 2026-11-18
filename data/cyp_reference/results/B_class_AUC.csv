@@ -1,0 +1,8 @@
+﻿category,queries,positive_references,external_valid_queries,positive_sequence_clusters,condition,global_AUC,local_AUC
+hydroxylation,33,57,33,46,all_references,0.5253209434243917,0.6094006568144499
+coupling_cyclization,9,10,9,10,all_references,0.5237166991552957,0.6739766081871345
+oxidative_dealkylation,6,7,6,6,all_references,0.6371308016877637,0.639592123769339
+oxidative_decarboxylation,3,3,3,3,all_references,0.9919678714859438,0.9979919678714859
+overall:methyl_to_carboxylate,3,3,3,3,all_references,0.6405622489959839,0.753012048192771
+nitration,2,2,2,2,all_references,0.8630952380952381,0.8511904761904763
+rearrangement,2,2,0,1,all_references,1.0,1.0

@@ -1,0 +1,28 @@
+{
+  "EXP_global": {
+    "TM_mean": 0.913725,
+    "scores": [
+      0.90009,
+      0.92736,
+      0.92736,
+      0.90009
+    ],
+    "OleT_residues": 424,
+    "BSbeta_residues": 411,
+    "aligned_CA": 404,
+    "reported_RMSD": 2.03
+  },
+  "EXP_local": {
+    "TM_mean": 0.87375,
+    "scores": [
+      0.87375,
+      0.87375,
+      0.87375,
+      0.87375
+    ],
+    "OleT_residues": 65,
+    "BSbeta_residues": 65,
+    "aligned_CA": 64,
+    "reported_RMSD": 1.22
+  }
+}
